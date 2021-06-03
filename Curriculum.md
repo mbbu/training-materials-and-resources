@@ -37,3 +37,7 @@ on different skills acquired from _**week 1**_ to _**week 4**_.
 3. The interns will be expected to participate in journal club  and Monday morning meetings.
 4. There shall be a code/progress review every Friday of the week.
 5. The interns will be expected to write a mid-internship and end of intership reports documenting their journey.
+
+## Evaluation
+- Pre Internship Survey
+- Post Internship Survey

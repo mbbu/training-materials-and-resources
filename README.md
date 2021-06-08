@@ -11,6 +11,9 @@ Materials used to train students, interns and new staff
 - Jupyter
 - Conda and miniconda
 
+## Data management
+- [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/)
+
 ## Command line utilities
 - Linux/Unix/Bash
     -  [IntroductoryLinux-2019](https://github.com/eanbit-rt/IntroductoryLinux-2019)

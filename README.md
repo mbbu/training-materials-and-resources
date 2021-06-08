@@ -7,7 +7,7 @@ Materials used to train students, interns and new staff
 - Markdown
 
 ## Reproducibility tools
-- Rmarkdown
+- [Rmarkdown](https://slides.djnavarro.net/starting-rmarkdown/#1)
 - Jupyter
 - Conda and miniconda
 

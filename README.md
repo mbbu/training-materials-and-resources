@@ -4,7 +4,7 @@ Materials used to train students, interns and new staff
 ## Collaborative tools
 - Git and Github
 - Slack
-- Markdown
+- [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Reproducibility tools
 - [Rmarkdown](https://slides.djnavarro.net/starting-rmarkdown/#1)

@@ -1,7 +1,7 @@
 A training cirriculum for the Internship program at ICIPE.
 
 ## Week 1
-- **Day 1** - Onboarding and general overview of MBBU
+- **Day 1** - [Onboarding and general overview of MBBU](https://github.com/mbbu/Onboarding)
 - **Day 2** - Introduction to collaborative documents
 - **Day 3** - [Introduction to Git and GitHub](https://github.com/eanbit-rt/IntroductoryGit)
 - **Day 4** - Purpose roadmap, objectives and goals

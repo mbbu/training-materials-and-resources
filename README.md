@@ -38,3 +38,5 @@ Materials used to train students, interns and new staff
    - [Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)
    - [Training in Bioinformatics](https://pickingupthetabb.wordpress.com/building-a-bioinformaticist/free-online-training-in-bioinformatics-and-biostatistics/)
    - [Data science and the commandline](https://www.datascienceatthecommandline.com/)
+   - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+   - [Awesome-Bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)

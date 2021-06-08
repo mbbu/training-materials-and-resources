@@ -5,7 +5,8 @@ A training cirriculum for the Internship program at ICIPE.
 - **Day 2** - Introduction to collaborative documents
 - **Day 3** - [Introduction to Git and GitHub](https://github.com/eanbit-rt/IntroductoryGit)
 - **Day 4** - Purpose roadmap, objectives and goals
-- **Day 5** - Data management and reproducible tools
+- **Day 5** - [Data management](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit#slide=id.p1) and 
+[reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0)
 
 ## Week 2
 - **Day 1** - Introduction to Unix/Linux

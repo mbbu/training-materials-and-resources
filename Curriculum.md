@@ -9,7 +9,7 @@ A training cirriculum for the Internship program at ICIPE.
 [reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0)
 
 ## Week 2
-- **Day 1** - Introduction to Unix/Linux
+- **Day 1** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/)
 - **Day 2** - Shell Scripting
 - **Day 3** - Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)
 - **Day 4** - More python

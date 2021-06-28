@@ -22,6 +22,11 @@ Materials used to train students, interns and new staff
     -  [Intro to linux](https://github.com/BioinfoNet/Introduction_To_Linux)
     -  [Guide for beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
+## Workflows
+- Nextflow
+    - [Bioinformatics Workbook](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0)
+    - [Seqera labs](https://seqera.io/training/)
+
 ## Scripting
 - Python
     - [Python4Bioinformatics2019](https://github.com/kipkurui/Python4Bioinformatics2019)

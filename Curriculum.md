@@ -23,7 +23,7 @@ A training cirriculum for the Internship program at ICIPE.
 - **Day 5** - Choose a path/Assignments
 
 ## Week 4
-- **Day 1** - Intro to HPC
+- **Day 1** - [Intro to HPC](https://github.com/mbbu/HPC_Training)
 - **Day 2** - Intro to statistics/R???
 - **Day 3**
 - **Day 4**

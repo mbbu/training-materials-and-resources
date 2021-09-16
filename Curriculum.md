@@ -10,13 +10,13 @@ A training cirriculum for the Internship program at ICIPE.
 
 ## Week 2
 - **Day 1** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/)
-- **Day 2** - Shell Scripting
+- **Day 2** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md)
 - **Day 3** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics)
 - **Day 4** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
-- **Day 5** - Python scripting
+- **Day 5** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
 
 ## Week 3
-- **Day 1** - Intro to Bioinformatics
+- **Day 1** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p)
 - **Day 2** - Sequencing and file formats
 - **Day 3** - Biological databases
 - **Day 4** - Phylogenetics
@@ -24,8 +24,8 @@ A training cirriculum for the Internship program at ICIPE.
 
 ## Week 4
 - **Day 1** - [Intro to HPC](https://github.com/mbbu/HPC_Training)
-- **Day 2** - Intro to statistics/R???
-- **Day 3**
+- **Day 2** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
+- **Day 3** - Intro to stats and machine learning
 - **Day 4**
 - **Day 5**
 

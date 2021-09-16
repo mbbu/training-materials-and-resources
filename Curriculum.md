@@ -2,17 +2,17 @@ A training cirriculum for the Internship program at ICIPE.
 
 ## Week 1
 - **Day 1** - [Onboarding and general overview of MBBU](https://github.com/mbbu/Onboarding)
-- **Day 2** - Introduction to collaborative documents
+- **Day 2** - [Introduction to collaborative documents - Slack](https://slack.com/intl/en-ke/help/categories/360000049063)
 - **Day 3** - [Introduction to Git and GitHub](https://github.com/eanbit-rt/IntroductoryGit)
-- **Day 4** - Purpose roadmap, objectives and goals
+- **Day 4** - [Purpose roadmap, objectives and goals](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 - **Day 5** - [Data management](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit#slide=id.p1) and 
 [reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0)
 
 ## Week 2
 - **Day 1** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/)
 - **Day 2** - Shell Scripting
-- **Day 3** - Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)
-- **Day 4** - More python
+- **Day 3** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics)
+- **Day 4** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
 - **Day 5** - Python scripting
 
 ## Week 3

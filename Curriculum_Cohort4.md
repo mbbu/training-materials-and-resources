@@ -26,7 +26,14 @@ A training cirriculum for the Internship program at ICIPE.
 **Work on reproducing a paper**
 
 ## Week 4
-- **Day 1** - [Intro to HPC](https://github.com/mbbu/HPC_Training)
+- **Day 1** - [Introduction to HPC](https://github.com/mbbu/HPC_Training)
+- **Day 2** - [Introduction to workflow languages]
+- **Day 3** - [Nextflow]
+- **Day 4** - [Containerization]
+- **Day 5** - [Docker]
+
+## Week 5
+- **Day 1** - [Nextflow & Docker]()
 - **Day 2** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
 - **Day 3** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
 - **Day 4** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
@@ -42,8 +49,8 @@ A training cirriculum for the Internship program at ICIPE.
     - Presentation skills
     - Mock interview 
     - 
-From _**week 5**_ onwards, the interns will be assigned to a range of mini projects which the will work on to build 
-on different skills acquired from _**week 1**_ to _**week 4**_.
+From _**week 6**_ onwards, the interns will be assigned to a range of mini projects which the will work on to build 
+on different skills acquired from _**week 1**_ to _**week 5**_.
 
 ## Notes
 1. The interns will be expected to attend other adhoc trainings organized by MBBU or other organization which are deemed important for their growth.

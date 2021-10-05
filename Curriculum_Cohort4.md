@@ -11,27 +11,28 @@ A training cirriculum for the Internship program at ICIPE.
 ## Week 2
 - **Day 1** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/)
 - **Day 2** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md)
-- Git on the commandline
-- **Day 3** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics)
-- **Day 4** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
-- **Day 5** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
+- **Day 3** - Git on the commandline
+- **Day 4** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics)
+- **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
+
 
 ## Week 3
-- **Day 1** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p)
-- **Day 2** - Intro to NGS: Sequencing and file formats
-- **Day 3** - 
-- **Day 4** - Phylogenetics
-- **Day 5** - 
+- **Day 1** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
+- **Day 2** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p)
+- **Day 3** - Intro to NGS: Sequencing and file formats
+- **Day 4** - Intro to NGS: Sequencing and file formats
+- **Day 5** - Phylogenetics
+
+**Work on reproducing a paper**
 
 ## Week 4
 - **Day 1** - [Intro to HPC](https://github.com/mbbu/HPC_Training)
 - **Day 2** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
-- **Day 3** - Intro to stats and machine learning
-- **Day 4**
-- **Day 5**
+- **Day 3** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
+- **Day 4** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
+- **Day 5** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
 
 **Add:**
-- Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi) (about 3 days)
 - A stronger focus on Pipelines, Workflows and Containers
 - Follow up Book a day for Lab tour or even wet lab practicals 
 - Shadow someone in the lab

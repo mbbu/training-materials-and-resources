@@ -11,22 +11,22 @@ A training cirriculum for the Internship program at ICIPE.
 ## Week 2
 - **Day 1** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/)
 - **Day 2** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md)
-- **Day 3** - Git on the commandline
-- **Day 4** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics)
+- **Day 3** - [Git on the commandline](https://github.com/eanbit-rt/IntroductoryGit)
+- **Day 4** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) by Caleb
 - **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
 
 
 ## Week 3
 - **Day 1** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
 - **Day 2** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p)
-- **Day 3** - Intro to NGS: Sequencing and file formats
-- **Day 4** - Intro to NGS: Sequencing and file formats
-- **Day 5** - Phylogenetics
+- **Day 3** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
+- **Day 4** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
+- **Day 5** - Phylogenetics by Pauline
 
 **Work on reproducing a paper**
 
 ## Week 4
-- **Day 1** - [Introduction to HPC](https://github.com/mbbu/HPC_Training)
+- **Day 1** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) by Andrew
 - **Day 2** - [Introduction to workflow languages]
 - **Day 3** - [Nextflow]
 - **Day 4** - [Containerization]
@@ -34,7 +34,7 @@ A training cirriculum for the Internship program at ICIPE.
 
 ## Week 5
 - **Day 1** - [Nextflow & Docker]()
-- **Day 2** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
+- **Day 2** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) by Andrew
 - **Day 3** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
 - **Day 4** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
 - **Day 5** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
@@ -48,7 +48,7 @@ A training cirriculum for the Internship program at ICIPE.
     - Cover letter (motivation) and CV writing: make a mock application to EANBiT
     - Presentation skills
     - Mock interview 
-    - 
+    
 From _**week 6**_ onwards, the interns will be assigned to a range of mini projects which the will work on to build 
 on different skills acquired from _**week 1**_ to _**week 5**_.
 

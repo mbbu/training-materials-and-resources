@@ -41,7 +41,7 @@ Materials used to train students, interns and new staff
 ## Machine learning
 - [ml-basics](https://github.com/MicrosoftDocs/ml-basics)
 
-- All-round resources
+## All-round resources
    - [Central dogma of molecular biology](https://github.com/okeyoallan/Central-dogma-of-molecular-biology) 
    - [Happy Belly Bioinformatics](https://astrobiomike.github.io/)
    - [Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)

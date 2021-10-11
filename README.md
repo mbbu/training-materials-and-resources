@@ -9,7 +9,7 @@ Materials used to train students, interns and new staff
 ## Reproducibility tools
 - [Rmarkdown](https://slides.djnavarro.net/starting-rmarkdown/#1)
 - Jupyter
-- Conda and miniconda
+- [Conda and miniconda](https://astrobiomike.github.io/unix/conda-intro)
 
 ## Data management
 - [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/)
@@ -37,6 +37,9 @@ Materials used to train students, interns and new staff
    - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
    - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
    - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
+
+## Machine learning
+- [ml-basics](https://github.com/MicrosoftDocs/ml-basics)
 
 - All-round resources
    - [Central dogma of molecular biology](https://github.com/okeyoallan/Central-dogma-of-molecular-biology) 

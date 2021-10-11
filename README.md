@@ -21,6 +21,7 @@ Materials used to train students, interns and new staff
     -  [The unix shell](http://swcarpentry.github.io/shell-novice/)
     -  [Intro to linux](https://github.com/BioinfoNet/Introduction_To_Linux)
     -  [Guide for beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+    -  [Unix resource](https://astrobiomike.github.io/unix/)
 
 ## Workflows
 - Nextflow

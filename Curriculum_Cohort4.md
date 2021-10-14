@@ -21,7 +21,7 @@ A training cirriculum for the Internship program at ICIPE.
 - **Day 2** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
 - **Day 3** - Holiday
 - **Day 4** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
-- **Day 5** - Phylogenetics by Pauline
+- **Day 5** - [Phylogenetics by Pauline](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
 
 **Work on reproducing a paper**
 

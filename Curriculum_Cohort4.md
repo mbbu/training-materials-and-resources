@@ -9,31 +9,31 @@ A training cirriculum for the Internship program at ICIPE.
 [reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0)
 
 ## Week 2
-- **Day 1** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/)
-- **Day 2** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md)
-- **Day 3** - [Git on the commandline](https://github.com/eanbit-rt/IntroductoryGit)
-- **Day 4** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) by Caleb
-- **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
+- **Day 1** - Holiday
+- **Day 2** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/) [Nanopore sequencing wet lab]
+- **Day 3** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md) [Personality & Motivation]
+- **Day 4** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p)
+- **Day 5** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
 
 
 ## Week 3
-- **Day 1** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
-- **Day 2** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p)
-- **Day 3** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
-- **Day 4** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
+- **Day 1** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) by Caleb
+- **Day 2** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
+- **Day 3** - Holiday
+- **Day 4** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
 - **Day 5** - Phylogenetics by Pauline
 
 **Work on reproducing a paper**
 
 ## Week 4
-- **Day 1** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) by Andrew
-- **Day 2** - [Introduction to workflow languages]
-- **Day 3** - [Nextflow]
-- **Day 4** - [Containerization]
-- **Day 5** - [Docker]
+- **Day 1** - [Git on the commandline](https://github.com/eanbit-rt/IntroductoryGit)
+- **Day 2** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) by Andrew
+- **Day 3** - [Introduction to workflow languages - Nextflow & Snakemake]
+- **Day 4** - [Containerization (Docker and Singularity)]
+- **Day 5** - [Nextflow & Docker]
 
 ## Week 5
-- **Day 1** - [Nextflow & Docker]()
+- **Day 1** - [Nextflow & Docker]
 - **Day 2** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) by Andrew
 - **Day 3** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)
 - **Day 4** - Introduction to Data Science and Machine Learning (Taken by Kennedy Senagi)

@@ -19,7 +19,7 @@ A training cirriculum for the Internship program at ICIPE.
 - **Day 1** - More Unix
 - **Day 2** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
 - **Day 3** - Holiday
-- **Day 4** - - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) by Caleb
+- **Day 4** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) by Caleb
 - **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
 
 ## Week 4

@@ -23,9 +23,9 @@ A training cirriculum for the Internship program at ICIPE.
 - **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
 
 ## Week 4
-- **Day 1** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
-- **Day 2** - [Git on the commandline](https://github.com/eanbit-rt/IntroductoryGit) [Feedback and conflict resolution](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session5_feedbackandconflictresolution.pdf)
-- **Day 3** - [Nextflow & Docker](https://docs.google.com/presentation/d/1Bdg5Cwfqsrt3n7UAA8n6PqnRLkN0NgwPTzJYwS47cDI/edit#slide=id.ge4784a2f73_1_135) [Career planning and peer mentoring](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session6_careerplanningandpeermentoring.pdf)
+- **Day 1** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) and [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
+- **Day 2** - [Git on the commandline](https://github.com/eanbit-rt/IntroductoryGit) and [Feedback and conflict resolution](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session5_feedbackandconflictresolution.pdf)
+- **Day 3** - [Nextflow & Docker](https://docs.google.com/presentation/d/1Bdg5Cwfqsrt3n7UAA8n6PqnRLkN0NgwPTzJYwS47cDI/edit#slide=id.ge4784a2f73_1_135) and [Career planning and peer mentoring](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session6_careerplanningandpeermentoring.pdf)
 - **Day 4** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
 - **Day 5** - [Phylogenetics by Pauline](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
 

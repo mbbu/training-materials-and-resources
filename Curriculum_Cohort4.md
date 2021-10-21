@@ -16,13 +16,11 @@ A training cirriculum for the Internship program at ICIPE.
 - **Day 5** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
 
 ## Week 3
-- **Day 1** - [More Unix]
+- **Day 1** - More Unix
 - **Day 2** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
 - **Day 3** - Holiday
 - **Day 4** - - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) by Caleb
 - **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
-
-**Work on reproducing a paper**
 
 ## Week 4
 - **Day 1** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
@@ -30,6 +28,8 @@ A training cirriculum for the Internship program at ICIPE.
 - **Day 3** - [Nextflow & Docker](https://docs.google.com/presentation/d/1Bdg5Cwfqsrt3n7UAA8n6PqnRLkN0NgwPTzJYwS47cDI/edit#slide=id.ge4784a2f73_1_135) [Career planning and peer mentoring](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session6_careerplanningandpeermentoring.pdf)
 - **Day 4** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
 - **Day 5** - [Phylogenetics by Pauline](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
+
+**Work on reproducing a paper**
 
 ## Week 5
 - **Day 1** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) by Andrew

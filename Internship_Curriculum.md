@@ -46,7 +46,7 @@ Work on reproducing a paper
 The interns will be assigned to a range of mini projects which the will work on to build 
 on different skills acquired from _**week 1**_ to _**week 7**_.
 
-**Add:**
+## Add:
 - A stronger focus on Pipelines, Workflows and Containers
 - Follow up Book a day for Lab tour or even wet lab practicals 
 - Shadow someone in the lab

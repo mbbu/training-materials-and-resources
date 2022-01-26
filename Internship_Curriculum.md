@@ -1,4 +1,4 @@
-A training cirriculum for the Internship program at ICIPE.
+A training curriculum for the Internship program at ICIPE.
 
 ## Week 1
 - **Day 1** - [Onboarding and general overview of MBBU](https://github.com/mbbu/Onboarding)

@@ -17,7 +17,7 @@ A training curriculum for the Internship program at ICIPE.
 
 ## Week 3
 - **Day 1** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
-- **Day 2** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) by Caleb
+- **Day 2** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) 
 - **Day 3** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
 - **Day 4** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) 
 - **Day 5** - Interns presentation on a topic of interest and [Feedback and conflict resolution](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session5_feedbackandconflictresolution.pdf)
@@ -40,9 +40,10 @@ A training curriculum for the Internship program at ICIPE.
     - Mock interview 
 
 ## Week 6 & Week 7
-**Work on reproducing a paper**
+Work on reproducing a paper
 
-From _**week 8**_ onwards, the interns will be assigned to a range of mini projects which the will work on to build 
+## Week 8 onwards, 
+The interns will be assigned to a range of mini projects which the will work on to build 
 on different skills acquired from _**week 1**_ to _**week 7**_.
 
 **Add:**

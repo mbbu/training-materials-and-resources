@@ -10,22 +10,23 @@ A training curriculum for the Internship program at ICIPE.
 [reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0)
 - **Day 2** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/) and [Personality & Motivation](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
 - **Day 3** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md) and [Leadership/Leadeship attributes/LeadershipStyles](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session2_LeadershipAttributes.pdf)
-- **Day 4** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p) and [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
-- **Day 5** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
+- **Day 4** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
+- **Day 5** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p) 
+
 
 ## Week 3
-- **Day 1** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
-- **Day 2** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) 
+- **Day 1** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) and [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
+- **Day 2** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md) 
 - **Day 3** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
-- **Day 4** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) 
+- **Day 4** -[Phylogenetics](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
 - **Day 5** - Interns presentation on a topic of interest and [Feedback and conflict resolution](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session5_feedbackandconflictresolution.pdf)
 
 ## Week 4
 - **Day 1** - [Nextflow, Singularity & Docker](https://docs.google.com/presentation/d/1Bdg5Cwfqsrt3n7UAA8n6PqnRLkN0NgwPTzJYwS47cDI/edit#slide=id.ge4784a2f73_1_135) and [Career planning and peer mentoring](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session6_careerplanningandpeermentoring.pdf)
 - **Day 2** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
 - **Day 3** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
-- **Day 4** - [Phylogenetics](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
-- **Day 5** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) 
+- **Day 4** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) 
+- **Day 5** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) 
 
 ## Week 5
 - **Day 1** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) 

@@ -18,7 +18,7 @@ A training curriculum for the Internship program at ICIPE.
 - **Day 1** - [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) and [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
 - **Day 2** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md) 
 - **Day 3** - [More python](https://swcarpentry.github.io/python-novice-inflammation/)
-- **Day 4** -[Phylogenetics](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
+- **Day 4** - [Phylogenetics](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
 - **Day 5** - Interns presentation on a topic of interest and [Feedback and conflict resolution](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session5_feedbackandconflictresolution.pdf)
 
 ## Week 4

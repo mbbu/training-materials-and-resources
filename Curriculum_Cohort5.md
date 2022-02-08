@@ -6,7 +6,7 @@ A training curriculum for the Internship program at ICIPE.
 - **Day 5** - [Purpose roadmap, objectives and goals](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/) and [Git on the commandline](https://swcarpentry.github.io/git-novice/); [Git on the commandline](https://librarycarpentry.org/lc-git/)
 
 ## Week 2
-- **Day 1** [Data management](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit#slide=id.p1) and 
+- **Day 1** - [Data management](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit#slide=id.p1) and 
 [reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0); [Reproducibility](https://docs.google.com/presentation/d/1Bdg5Cwfqsrt3n7UAA8n6PqnRLkN0NgwPTzJYwS47cDI/edit#slide=id.ge4784a2f73_1_337)
 - **Day 2** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/) and [Personality & Motivation](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
 - **Day 3** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md) and [Leadership/Leadeship attributes/LeadershipStyles](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session2_LeadershipAttributes.pdf)

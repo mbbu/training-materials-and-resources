@@ -7,7 +7,7 @@ A training curriculum for the Internship program at ICIPE.
 
 ## Week 2
 - **Day 1** [Data management](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit#slide=id.p1) and 
-[reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0)
+[reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0); [Reproducibility](https://docs.google.com/presentation/d/1Bdg5Cwfqsrt3n7UAA8n6PqnRLkN0NgwPTzJYwS47cDI/edit#slide=id.ge4784a2f73_1_337)
 - **Day 2** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/) and [Personality & Motivation](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
 - **Day 3** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md) and [Leadership/Leadeship attributes/LeadershipStyles](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session2_LeadershipAttributes.pdf)
 - **Day 4** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)

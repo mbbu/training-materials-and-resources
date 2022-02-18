@@ -23,8 +23,8 @@ A training curriculum for the Internship program at ICIPE.
 
 ## Week 4
 - **Day 1** -  [Phylogenetics](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf) and [Career planning and peer mentoring](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session6_careerplanningandpeermentoring.pdf)
-- **Day 2** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
-- **Day 3** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
+- **Day 2** - [Nextflow, Singularity & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
+- **Day 3** - [Nextflow, Singularity & Docker](https://seqera.io/training/#_environment_setup)
 - **Day 4** - [Intro to R](https://swcarpentry.github.io/r-novice-inflammation/) 
 - **Day 5** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) 
 

@@ -11,7 +11,7 @@ A training curriculum for the Internship program at ICIPE.
 - **Day 2** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/) and [Personality & Motivation](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
 - **Day 3** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md) and [Leadership/Leadeship attributes/LeadershipStyles](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session2_LeadershipAttributes.pdf)
 - **Day 4** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf)
-- **Day 5** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p) 
+- **Day 5** - [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p) & Molecular biology concepts
 
 
 ## Week 3
@@ -41,15 +41,13 @@ A training curriculum for the Internship program at ICIPE.
 ## Week 6 & Week 7
 Work on reproducing a paper
 
-## Week 8 onwards, 
-The interns will be assigned to a range of mini projects which the will work on to build 
-on different skills acquired from _**week 1**_ to _**week 7**_.
+## Week 8 
+Information literacy workshop
+Laboratory tour
 
-## Add:
-- A stronger focus on Pipelines, Workflows and Containers
-- Follow up Book a day for Lab tour or even wet lab practicals 
-- Shadow someone in the lab
-- A focus on research results interpretation (how when the focus is on pipelines?)  
+## Week 9onwards, 
+The interns are assigned to a range of mini projects which the will work on to build 
+on different skills acquired from _**week 1**_ to _**week 5**_. 
 
 ## Notes
 1. The interns will be expected to attend other adhoc trainings organized by MBBU or other organization which are deemed important for their growth.

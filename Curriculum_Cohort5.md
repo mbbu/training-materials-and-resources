@@ -42,8 +42,7 @@ A training curriculum for the Internship program at ICIPE.
 Work on reproducing a paper
 
 ## Week 8 
-Information literacy workshop
-Laboratory tour
+Information literacy workshop & Laboratory tour
 
 ## Week 9onwards, 
 The interns are assigned to a range of mini projects which the will work on to build 

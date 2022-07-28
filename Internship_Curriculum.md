@@ -10,13 +10,13 @@ A training curriculum for the Internship program at ICIPE.
 
 ## Week 2
 - **Day 1** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf) 
-- **Day 2** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/) and [Personality](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
+- **Day 2** - [Introduction to Unix](https://swcarpentry.github.io/shell-novice/) and [Personality & Motivation](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
 - **Day 3** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md) 
 - **Day 4** - [Shell Scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/sh_scripting.md)
 - **Day 5** -  Shell exercices and [Leadership/Leadeship attributes/LeadershipStyles](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session2_LeadershipAttributes.pdf)
 
 ## Week 3
-- **Day 1** - [Git on the commandline](https://swcarpentry.github.io/git-novice/) and [Motivation](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
+- **Day 1** - [Git on the commandline](https://swcarpentry.github.io/git-novice/) 
 - **Day 2** - [Phylogenetics](https://github.com/mbbu/training-materials-and-resources/blob/main/Phylogenetics_resources/Phylogenetics_handout%209.pdf)
 - **Day 3** - [Introduction to HPC](https://github.com/mbbu/training-materials-and-resources/blob/main/Intro_Bioinfo/High%20performance%20computing%20copy%20(1).pptx) and [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) 
 - **Day 4** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)

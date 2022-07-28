@@ -19,7 +19,7 @@ A training curriculum for the Internship program at ICIPE.
 - **Day 2** - Shell exercices and [Leadership/Leadeship attributes/LeadershipStyles](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session2_LeadershipAttributes.pdf)
 - **Day 3** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) and [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) 
 - **Day 4** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
-- **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) and [Leadership Styles and diversity]()
+- **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) and [Leadership Styles and diversity](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session3_leadershipandstyles.pdf)
 
 ## Week 4
 - **Day 1** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) and  [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)

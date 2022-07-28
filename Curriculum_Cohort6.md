@@ -5,8 +5,7 @@ A training curriculum for the Internship program at ICIPE.
 - **Day 3** - [Purpose roadmap, objectives and goals](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 - **Day 4** - [Introduction to GitHub](https://github.com/eanbit-rt/IntroductoryGit)
 - **Day 5** - [Data management](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit#slide=id.p1) and 
-[reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0)
-- **Day 5** -  
+[reproducible tools](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit#slide=id.g4d83735816_0_0) 
 
 ## Week 2
 - **Day 1** - [Intro to NGS: Sequencing and file formats](https://www.vula.uct.ac.za/access/content/group/85f4dc42-4fd6-43a0-bbd7-7be6b6729b1f/Module%205%3A%20Genomics/Session%201/Module5_Session1.pdf) and [Intro to Bioinformatics](https://docs.google.com/presentation/d/1K74KqskOQwuO5g7r65lqj5KTfB3ETeyuvMSiHS9I1bc/edit#slide=id.p)

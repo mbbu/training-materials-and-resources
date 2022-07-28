@@ -1,7 +1,8 @@
 A training curriculum for the Internship program at ICIPE.
 
 ## Week 1
-- **Day 2** - [Onboarding and general overview of MBBU](https://github.com/mbbu/Onboarding) and [Introduction to collaborative documents - Slack](https://slack.com/intl/en-ke/help/categories/360000049063)
+- **Day 1** - [Onboarding and general overview of MBBU](https://github.com/mbbu/Onboarding)
+- **Day 2** - [Introduction to collaborative documents - Slack](https://slack.com/intl/en-ke/help/categories/360000049063)
 - **Day 3** - [Purpose roadmap, objectives and goals](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 - **Day 4** - [Introduction to GitHub](https://github.com/eanbit-rt/IntroductoryGit)
 - **Day 5** - [Data management](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit#slide=id.p1) and 

@@ -29,7 +29,7 @@ A training curriculum for the Internship program at ICIPE.
 - **Day 5** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md)
 
 ## Week 5
- 
+- **Day 1** - Introduction to Data Science and Machine Learning 
 - **Day 2** - Introduction to Data Science and Machine Learning 
 - **Day 3** - Introduction to Data Science and Machine Learning 
 - **Day 4** - Introduction to Data Science and Machine Learning

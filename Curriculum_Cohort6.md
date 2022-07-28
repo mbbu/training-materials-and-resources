@@ -17,7 +17,7 @@ A training curriculum for the Internship program at ICIPE.
 ## Week 3
 - **Day 1** - [Git on the commandline](https://swcarpentry.github.io/git-novice/) and [Motivation](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session_1_PersonalityMotivation.pdf)
 - **Day 2** - Shell exercices and [Leadership/Leadeship attributes/LeadershipStyles](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session2_LeadershipAttributes.pdf)
-- **Day 3** - [Introduction to HPC](https://github.com/mbbu/HPC_Training) and [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) 
+- **Day 3** - [Introduction to HPC](https://github.com/mbbu/training-materials-and-resources/blob/main/Intro_Bioinfo/High%20performance%20computing%20copy%20(1).pptx) and [Introduction to Python and Reproducible research tools (Miniconda, Jupyter and Rmarkdown)](https://github.com/kipkurui/Python4Bioinformatics) 
 - **Day 4** - [Python scripting](https://github.com/mbbu/training-materials-and-resources/blob/main/Exercises/py_scripting.md)
 - **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) and [Leadership Styles and diversity](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session3_leadershipandstyles.pdf)
 

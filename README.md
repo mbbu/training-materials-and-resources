@@ -1,6 +1,9 @@
 # training-materials-and-resources
 Materials used to train students, interns and new staff
 
+## [Pre-Internship surveys](https://drive.google.com/drive/folders/1DpyNTSyehvnB4HH0kBfHyxz0Inb4_nxJ?usp=sharing)
+## [Post-Internship surveys](https://drive.google.com/drive/folders/1NqTahfOPDJh7LU8cVHwyPChgKF3o5mOw?usp=sharing)
+
 ## Collaborative tools
 - Git and Github
 - Slack

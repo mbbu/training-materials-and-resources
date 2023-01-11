@@ -23,7 +23,7 @@ A training curriculum for the Internship program at ICIPE.
 - **Day 5** - [More python](https://swcarpentry.github.io/python-novice-inflammation/) and [Leadership Styles and diversity](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session3_leadershipandstyles.pdf)
 
 ## Week 4
-- **Day 1** - [Intro to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) and  [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
+- **Day 1** - [Intro to R]([https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html](https://swcarpentry.github.io/r-novice-gapminder/)) and  [Communication and presentation skills](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session4_communicationandpresentationskills.pdf)
 - **Day 2** - [Nextflow, Singularity & Docker](https://docs.google.com/presentation/d/1Bdg5Cwfqsrt3n7UAA8n6PqnRLkN0NgwPTzJYwS47cDI/edit#slide=id.ge4784a2f73_1_135) and [Feedback and conflict resolution](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session5_feedbackandconflictresolution.pdf)
 - **Day 3** - [Nextflow & Docker](https://github.com/eanbit-rt/Workflows_and_package_management/blob/master/Nextflow%20and%20docker%20and%20singularity.md) and [Career planning and peer mentoring](https://github.com/mbbu/training-materials-and-resources/blob/main/Soft_Skills/session6_careerplanningandpeermentoring.pdf)
 - **Day 4** - [Nextflow & Docker](https://training.seqera.io/#_basic_concepts) and Interns presentation on a topic of interest
